@@ -1,0 +1,44 @@
+{
+  "loggs": [
+    {
+      "name": "Test",
+      "status": true,
+      "id": 1
+    },
+    {
+      "name": "Tes2t",
+      "status": true,
+      "id": 2
+    },
+    {
+      "name": "Tes2222t",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "Artem",
+      "status": true,
+      "id": 4
+    },
+    {
+      "name": "Artem",
+      "status": true,
+      "id": 5
+    },
+    {
+      "name": "11123awd",
+      "status": true,
+      "id": 6
+    },
+    {
+      "name": "Test!!!",
+      "status": true,
+      "id": 7
+    },
+    {
+      "name": "efsfesf!!!",
+      "status": true,
+      "id": 8
+    }
+  ]
+}
